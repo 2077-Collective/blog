@@ -2,7 +2,9 @@
   "posts": [
     {
       "slug": "test-post-1",
-      "file": "test-post-1.md"
+      "file": "test-post-1.md",
+      "time": 0,
+      "author": "lynett.eth"
     }
   ]
 }

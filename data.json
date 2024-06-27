@@ -1,6 +1,7 @@
 {
   "posts": [
     {
+      "title": "Test Post 1",
       "slug": "test-post-1",
       "file": "test-post-1.md",
       "time": 0,

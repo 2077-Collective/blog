@@ -1,0 +1,8 @@
+{
+  "posts": [
+    {
+      "slug": "test-post-1",
+      "file": "test-post-1.md"
+    }
+  ]
+}

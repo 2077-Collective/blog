@@ -1,11 +1,13 @@
 {
+  "tags": ["test1", "test2"],
   "posts": [
     {
       "title": "Test Post 1",
       "slug": "test-post-1",
       "file": "test-post-1.md",
       "time": 0,
-      "author": "lynett.eth"
+      "author": "lynett.eth",
+      "tags": ["test2"]
     }
   ]
 }

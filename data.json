@@ -1,13 +1,13 @@
 {
-  "tags": ["test1", "test2"],
+  "tags": ["intro", "collective"],
   "posts": [
     {
-      "title": "Test Post 1",
-      "slug": "test-post-1",
-      "file": "test-post-1.md",
-      "time": 0,
-      "author": "lynett.eth",
-      "tags": ["test2"]
+      "title": "2077 Collective: Making Ethereum Cool Again!",
+      "slug": "hello-world",
+      "file": "hello-world.md",
+      "time": 1719852395,
+      "author": "2077 Collective",
+      "tags": ["collective", "intro"]
     }
   ]
 }

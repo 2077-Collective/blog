@@ -1,4 +1,4 @@
-# 2077 Collective: Making Ethereum Cool Again!
+# 2077 Collective: Making Ethereum Cool Again
 
 We’re beyond thrilled to announce the official launch of 2077 Collective, a community-centric initiative designed to “make Ethereum cool again.” June marked a significant journey as we progressed from ideation and rough planning to fundraising and finally execution. Over the past few weeks, our dedicated team has worked tirelessly to ensure a successful launch. Today, we’re excited to share with you all what 2077 Collective is.
 

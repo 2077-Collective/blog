@@ -22,11 +22,11 @@ Like a thesis waiting to be proven true, the above tweet was a confirmation of p
 2077 Collective is a marketing/creative studio, a research shop, and a mad science lab rolled into one. It is a league of creatives, researchers, marketers, and developers who come together to contribute, build, research, write, and create in a way that provides value to the Ethereum ecosystem. 2077 Collective aims to fill the narrative gap and solve Ethereum’s marketing problem.
 
 
-## Core Services:
+## Core Activities
 
-Research: With a close-knit team of highly skilled researchers with proven track records, 2077 Collective, through our research service, collaborates with solid Ethereum-based projects to create in-depth reports on their tech. We write deep dives and technical analyses on Ethereum-based protocols, infrastructures, and applications.
-Marketing: We will partner with projects to help grow their marketing efforts and promote their products in a way that adds value to the ecosystem.
-Creative contests: 2077 Collective will act as a platform that facilitates creative contests and bounties, allowing community members to contribute their skills to the ecosystem through creative contests. We aim to be the link between projects looking to sponsor bounties and individuals looking to participate.
+- Research: With a close-knit team of highly skilled researchers with proven track records, 2077 Collective, through our research service, collaborates with solid Ethereum-based projects to create in-depth reports on their tech. We write deep dives and technical analyses on Ethereum-based protocols, infrastructures, and applications.
+- Marketing: We will partner with projects to help grow their marketing efforts and promote their products in a way that adds value to the ecosystem.
+- Creative contests: 2077 Collective will act as a platform that facilitates creative contests and bounties, allowing community members to contribute their skills to the ecosystem through creative contests. We aim to be the link between projects looking to sponsor bounties and individuals looking to participate.
 
 ## EIP Wiki:
 
